@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.3 (64-bit)
+# SW Build 2018833 on Wed Oct  4 19:58:22 MDT 2017
+# IP Build 2016188 on Wed Oct  4 21:52:56 MDT 2017
+# Start of session at: Fri Jan  4 02:36:27 2019
+# Process ID: 1148
+# Current directory: C:/Users/Charl/Desktop/Final/Final.runs/gray_picture_ram_synth_1
+# Command line: vivado.exe -log gray_picture_ram.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source gray_picture_ram.tcl
+# Log file: C:/Users/Charl/Desktop/Final/Final.runs/gray_picture_ram_synth_1/gray_picture_ram.vds
+# Journal file: C:/Users/Charl/Desktop/Final/Final.runs/gray_picture_ram_synth_1\vivado.jou
+#-----------------------------------------------------------
+source gray_picture_ram.tcl -notrace

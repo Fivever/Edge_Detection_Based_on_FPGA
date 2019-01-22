@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.3 (64-bit)
+# SW Build 2018833 on Wed Oct  4 19:58:22 MDT 2017
+# IP Build 2016188 on Wed Oct  4 21:52:56 MDT 2017
+# Start of session at: Fri Jan  4 02:45:50 2019
+# Process ID: 12560
+# Current directory: C:/Users/Charl/Desktop/Final/Final.runs/impl_1
+# Command line: vivado.exe -log vga_640x480_picture_top.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source vga_640x480_picture_top.tcl -notrace
+# Log file: C:/Users/Charl/Desktop/Final/Final.runs/impl_1/vga_640x480_picture_top.vdi
+# Journal file: C:/Users/Charl/Desktop/Final/Final.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source vga_640x480_picture_top.tcl -notrace

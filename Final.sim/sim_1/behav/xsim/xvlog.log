@@ -1,0 +1,12 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Charl/Desktop/Final/Final.srcs/sources_1/ip/picture_rom/sim/picture_rom.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module picture_rom
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Charl/Desktop/Final/Final.srcs/sources_1/new/TOP.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module vga_640x480_picture_top
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Charl/Desktop/Final/Final.srcs/sources_1/new/clkdiv.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clkdiv
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Charl/Desktop/Final/Final.srcs/sources_1/new/vga_data.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module vga_data
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Charl/Desktop/Final/Final.srcs/sources_1/new/vga_driver.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module vga_driver
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Charl/Desktop/Final/Final.srcs/sim_1/new/pic_sim.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pic_sim

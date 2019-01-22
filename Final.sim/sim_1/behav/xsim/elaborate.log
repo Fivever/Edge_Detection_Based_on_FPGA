@@ -1,0 +1,24 @@
+Vivado Simulator 2017.3
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2017.3/bin/unwrapped/win64.o/xelab.exe -wto 7c31ebcf0385485ba240f2b680b29293 --incr --debug typical --relax --mt 2 -L blk_mem_gen_v8_4_0 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot pic_sim_behav xil_defaultlib.pic_sim xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-1783] select index 30 into current_contents is out of bounds [/wrk/2017.3/nightly/2017_10_04_2018833/packages/customer/vivado/data/ip/xilinx/blk_mem_gen_v8_4/simulation/blk_mem_gen_v8_4.v:2419]
+WARNING: [VRFC 10-1783] select index 62 into current_contents is out of bounds [/wrk/2017.3/nightly/2017_10_04_2018833/packages/customer/vivado/data/ip/xilinx/blk_mem_gen_v8_4/simulation/blk_mem_gen_v8_4.v:2420]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.clkdiv
+Compiling module xil_defaultlib.vga_driver
+Compiling module xil_defaultlib.vga_data
+Compiling module blk_mem_gen_v8_4_0.blk_mem_gen_v8_4_0_output_stage(...
+Compiling module blk_mem_gen_v8_4_0.blk_mem_gen_v8_4_0_output_stage(...
+Compiling module blk_mem_gen_v8_4_0.blk_mem_gen_v8_4_0_softecc_outpu...
+Compiling module blk_mem_gen_v8_4_0.blk_mem_gen_v8_4_0_mem_module(C_...
+Compiling module blk_mem_gen_v8_4_0.blk_mem_gen_v8_4_0(C_FAMILY="art...
+Compiling module xil_defaultlib.picture_rom
+Compiling module xil_defaultlib.vga_640x480_picture_top
+Compiling module xil_defaultlib.pic_sim
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot pic_sim_behav
