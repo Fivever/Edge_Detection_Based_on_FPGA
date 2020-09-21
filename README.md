@@ -2,7 +2,7 @@
 
 Xilinx FPGA开发
 
-硬件：Nexys4DDR^tm开发板
+硬件：Nexys4DDR$^tm$开发板
 
 产品系列：Artix-7
 
